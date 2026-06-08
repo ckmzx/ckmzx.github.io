@@ -11,7 +11,7 @@ title: me
 
 ### About
 
-Feel free to reach out — always open to meaningful conversations and collaborations.
+Feel free
 
 ---
 
@@ -26,10 +26,12 @@ Feel free to reach out — always open to meaningful conversations and collabora
 
 - Choking under pressure
 - Motor learning
+- College entrance exam
+- Physcial Education
 
 ---
 
-### Contact
+### SNS
 
 - 📧 Email: [ckmn@skku.edu](mailto:ckmn@skku.edu)
 - 📷 Instagram (Personal): [instagram.com/ckmzx](https://instagram.com/ckmzx)
