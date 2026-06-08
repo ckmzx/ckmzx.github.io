@@ -1,6 +1,7 @@
 permalink: /:year:month:day/:title
 url: https://ckmzx.github.io
-baseurl: /project
+baseurl: ""
+future: true
 
 # variables
 name: ckmzx. kei
